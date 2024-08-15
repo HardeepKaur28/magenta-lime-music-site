@@ -11,7 +11,7 @@ Welcome to the **Magenta Lime Music Site** repository! This project is a static 
 - **Customizable Sections**: Modify the content sections to fit your band's style and message.
 
 ## live link 
-
+    --https://hardeepkaur28.github.io/magenta-lime-music-site/
 ## Getting Started
 
 ### Prerequisites
